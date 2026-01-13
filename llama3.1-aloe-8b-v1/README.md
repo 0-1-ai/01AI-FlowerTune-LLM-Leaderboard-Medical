@@ -10,7 +10,7 @@ allowing users to perform the training on a single GPU.
 
 ```text
 .
-├── flowertune-medical/              # Source code for ClientApp, ServerApp, and Strategy
+├── mmfl/                            # Source code for ClientApp, ServerApp, and Strategy
 ├── flowertune-eval-medical/         # Evaluation scripts and instructions
 ├── pyproject.toml                   # Project configuration and dependencies
 └── README.md                        # This file
